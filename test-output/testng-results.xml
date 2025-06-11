@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Data Driver Basics" duration-ms="3767" started-at="2025-05-31T13:29:11 PDT" finished-at="2025-05-31T13:29:14 PDT">
+    <groups>
+    </groups>
+    <test name="Login Test" duration-ms="3767" started-at="2025-05-31T13:29:11 PDT" finished-at="2025-05-31T13:29:14 PDT">
+      <class name="com.w2a.testcases.LoginTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.w2a.testcases.LoginTest@17a87e37]" name="loginTest" duration-ms="3205" started-at="2025-05-31T13:29:11 PDT" finished-at="2025-05-31T13:29:14 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.testcases.LoginTest@17a87e37]" name="tearDown" is-config="true" duration-ms="1343" started-at="2025-05-31T13:29:14 PDT" finished-at="2025-05-31T13:29:16 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.w2a.testcases.LoginTest -->
+    </test> <!-- Login Test -->
+  </suite> <!-- Data Driver Basics -->
+</testng-results>
