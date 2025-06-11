@@ -1,0 +1,13 @@
+This repository demonstrates a Page Object Model (POM) framework using Selenium WebDriver, TestNG, and Java for creating scalable and maintainable test automation for web applications.
+Following is the project strucure.
+  src/
+│
+├── main/
+│   └── java/
+│       └── pages/          # Page classes for each screen
+│       └── utilities/          # Utility classes (e.g., DriverFactory, ConfigReader)
+│
+├── test/
+    └── java/
+        └── tests/          # Test classes with assertions
+        └── testdata/       # Test data management (optional)
