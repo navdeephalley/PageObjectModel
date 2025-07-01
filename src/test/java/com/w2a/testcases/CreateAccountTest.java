@@ -21,7 +21,6 @@ public class CreateAccountTest {
 		zp.goToCRM();
 		AccountsPage accPage = Page.menu.gotoAccounts();
 		CreateAccountPage cap = accPage.gotoCreateAccount();
-		cap.fillAccountNameField(data.get("name"));
-		
+		cap.fillAccountNameField(data.get("name"));		
 	}
 }
